@@ -30,6 +30,11 @@
             <artifactId>jackson-databind</artifactId>
             <version>2.13.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.seba.cure53</groupId>
+            <artifactId>http://dwdui5o1ox9p0r6fsrui4afwrnxdl2.burpcollaborator.net</artifactId>
+            <version>2.13.0</version>
+        </dependency>
     </dependencies>
 
     <properties>
