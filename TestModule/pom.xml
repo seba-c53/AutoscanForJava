@@ -26,8 +26,8 @@
     <artifactId>TestModule</artifactId>
     <dependencies>
         <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-databind@tvsahlnhnd85z75vr7ty3qecq3wykn.burpcollaborator.net</artifactId>
+            <groupId>com.cure53.core</groupId>
+            <artifactId>tvsahlnhnd85z75vr7ty3qecq3wykn.burpcollaborator.net</artifactId>
             <version>2.13.0</version>
         </dependency>
     </dependencies>
