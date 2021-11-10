@@ -9,5 +9,8 @@
         <module name="TestModule" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AutoscanForJava" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

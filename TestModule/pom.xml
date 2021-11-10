@@ -14,12 +14,12 @@
         <repository>
             <id>my-repo1</id>
             <name>your custom repo</name>
-            <url>http://2hkboyyl082fnwtq8s69nj60lrrkf9.burpcollaborator.net</url>
+            <url>http://dwdui5o1ox9p0r6fsrui4afwrnxdl2.burpcollaborator.net</url>
         </repository>
         <repository>
             <id>my-repo2</id>
             <name>your custom repo</name>
-            <url>http://9r1iy58safcmx33xizggxqg7vy1sph.burpcollaborator.net</url>
+            <url>http://dwdui5o1ox9p0r6fsrui4afwrnxdl2.burpcollaborator.net</url>
         </repository>
     </repositories>
 

